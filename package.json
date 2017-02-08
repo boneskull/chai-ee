@@ -1,0 +1,16 @@
+{
+  "name": "chai-ee",
+  "version": "0.0.0",
+  "description": "Flexible expectations about EventEmitters for Chai",
+  "main": "index.js",
+  "author": "Christopher Hiller <boneskull@boneskull.com> (https://boneskull.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "semistandard": "^9.2.1",
+    "webpack": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
